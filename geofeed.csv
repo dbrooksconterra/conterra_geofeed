@@ -3151,6 +3151,7 @@
 216.45.22.148/31,US,LA,Lafayette
 216.45.22.150/31,US,LA,Lafayette
 216.45.22.154/31,US,LA,Lafayette
+216.45.22.160/29,US,TX,El Paso
 216.45.22.176/28,US,LA,Shreveport
 216.45.22.240/29,US,LA,Shreveport
 216.45.22.248/29,US,LA,Shreveport
@@ -3281,6 +3282,7 @@
 216.45.24.216/29,US,LA,Shreveport
 216.45.24.224/29,US,LA,Shreveport
 216.45.24.232/29,US,LA,Shreveport
+216.45.24.242/31,US,LA,Shreveport
 216.45.24.244/30,US,LA,Shreveport
 216.45.24.248/31,US,LA,Shreveport
 216.45.25.0/24,US,LA,Lafayette
